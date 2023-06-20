@@ -4,4 +4,7 @@
 
 Just a study project to start my own compiler.
 
-<img src="lexical-analyzer/automata drawing.png"></img>
+
+### Basic Automata drawing
+
+<img src="lexicalanalyzer/automata drawing.png"></img>
