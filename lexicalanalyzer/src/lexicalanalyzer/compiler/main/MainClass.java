@@ -7,7 +7,7 @@ import lexicalanalyzer.compiler.lexical.Token;
 public class MainClass {
 	public static void main(String[] args) {
 		try {			
-			Scanner scanner = new Scanner("src/main.gus");
+			Scanner scanner = new Scanner("main.gus");
 			Token token = null;
 			
 			do {
