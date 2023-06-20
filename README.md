@@ -4,7 +4,6 @@
 
 Just a study project to start my own compiler.
 
+### Automata Sketch
 
-### Basic Automata drawing
-
-<img src="lexicalanalyzer/automata drawing.png"></img>
+<img src="lexicalanalyzer/automata.png"></img>
